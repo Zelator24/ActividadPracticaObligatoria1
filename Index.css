@@ -1,0 +1,14 @@
+.card-img-top{
+    width: auto;
+    height: 222px;
+}
+
+.card-img-top1{
+    width: auto;
+    height: 222px;
+    padding: 0px 5px 0px 5px;
+}
+
+.card-text{
+    font-size: 18px;
+}
